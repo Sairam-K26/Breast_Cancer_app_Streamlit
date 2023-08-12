@@ -27,10 +27,14 @@ python -m venv venv
 source venv/bin/activate
 
 
-Dependencies
+'''
+
+##Dependencies
 streamlit
 numpy
 scikit-learn
 Pillow (PIL)
+
+
 
 
