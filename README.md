@@ -3,7 +3,7 @@
 
 This Streamlit app allows users to predict whether a breast cancer case is benign or malignant based on user-provided input. The app utilizes machine learning techniques to make predictions using a breast cancer dataset.
 
-![Breast Cancer](bc.jpg)
+
 
 ## Features
 
