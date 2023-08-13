@@ -15,16 +15,15 @@ This Streamlit app allows users to predict whether a breast cancer case is benig
 
 ## Installation
 
-1. Clone or download this repository.
+Clone or download this repository.
 
-```sh
 git clone https://github.com/your-username/breast-cancer-prediction-app.git
 cd breast-cancer-prediction-app
 
 Create a virtual environment (optional but recommended).
 
 python -m venv venv
-source venv/bin/activate  ```
+source venv/bin/activate  
 
 Run the Streamlit app.
 
