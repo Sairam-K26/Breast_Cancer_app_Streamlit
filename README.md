@@ -24,17 +24,26 @@ cd breast-cancer-prediction-app
 Create a virtual environment (optional but recommended).
 
 python -m venv venv
-source venv/bin/activate
+source venv/bin/activate  ```
 
+Run the Streamlit app.
 
-'''
+Copy code
+```streamlit run app.py```
 
-##Dependencies
+Interact with the app through your web browser.
+Enter numerical values for the selected features in the sidebar.
+The app will display a prediction (benign or malignant) based on the input.
+
+**Dependencies**
+
 streamlit
 numpy
 scikit-learn
 Pillow (PIL)
 
+**Data Source**
 
+The breast cancer dataset used in this app is from the scikit-learn library's load_breast_cancer function.
 
 
